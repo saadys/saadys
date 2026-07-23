@@ -7,4 +7,4 @@ I am:
 - ☁️ AWS Certified Cloud Practitioner
 - 🏎️ Fast API & Faster Models Enthusiast
 - 🤗 Open Source Contributor @ [Hugging Face](https://huggingface.co/saadys018)
--♟️ Chess & FIFA Ultimate Team Tactics Enjoyer
+- ♟️ Chess & FIFA Ultimate Team Tactics Enjoyer
