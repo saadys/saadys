@@ -1,4 +1,4 @@
-# i there 👋 
+## i there 👋 
 Welcome to my GitHub profile, where I craft AI solutions, build MLOps pipelines, and occasionally debug code at 2 AM ☕. You're probably wondering how a **DATA** enthusiast ended up here... well, I just **D**esign **A**utomated **T**raining **A**lgorithms 😃
 
 I am:
